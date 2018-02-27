@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
+=======
+sTASH Removed this line
+>>>>>>> Stashed changes
 
 #include <stdio.h>
 #include <math.h>
